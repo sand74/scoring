@@ -1,5 +1,6 @@
 # scoring
 Компьютер говорит "Нет"
+Ник на Kaggle - Andrei Sorokin
 
 Задача:
 
